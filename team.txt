@@ -3,7 +3,7 @@ Equipo de Desarrollo
 Integrantes:
 1. Pendiente
 2. Dumar Rojas - Backend
-3. Pendiente
+3. Adrian Vega - Frontend
 
 Proyecto:
 Aplicación de perfiles del equipo

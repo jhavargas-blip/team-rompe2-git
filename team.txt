@@ -1,8 +1,13 @@
 Equipo de Desarrollo
 
 Integrantes:
+<<<<<<< HEAD
 1. leonardo  - Backend
 2. Pendiente
+=======
+1. Pendiente
+2. Dumar Rojas - Backend
+>>>>>>> main
 3. Pendiente
 
 Proyecto:

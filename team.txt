@@ -6,4 +6,4 @@ Integrantes:
 3. Adrian Vega - Frontend
 
 Proyecto:
-Aplicación de perfiles del equipo
+Aplicación de perfiles del equipoVersi 1.2 - leonardo

@@ -7,3 +7,4 @@ Integrantes:
 
 Proyecto:
 Aplicación de perfiles del equipoVersi 1.2 - leonardo
+Aplicación de perfiles del equipoVersi 1.3 - dumar
